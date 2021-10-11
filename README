@@ -1,0 +1,11 @@
+leavemealone
+------------
+
+Leave Discord servers using the folder names.
+
+Usage
+-----
+
+1. `export TOKEN="<token>"`
+2. `go run . <folder_name>`
+3. Check that the guilds match and confirm with `Y` or `y`.
